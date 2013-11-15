@@ -1,0 +1,34 @@
+body {
+	-webkit-transition-timing-function: linear;
+}
+
+.main-title{
+	padding-top: 100px;
+}
+.content-title{
+	width: 100%;
+}
+.content-subtitle{
+	width: 100%;
+	margin-top: 15px;
+}
+.grid{
+	width: 100%;
+}
+
+.icon-grid{
+	width: 100%;
+}
+
+.icon-list img{
+	width: 5.2em;
+}
+.icon-list{
+	padding-left: 0px;
+}
+#content{
+	width: 95%;
+}
+.text{
+	width: 85%;
+}
