@@ -20,6 +20,7 @@
             $(".main-title").animate({'padding-top': '20px','margin-bottom':'30px', 'width': '80%'},900);
             $(".content-title").animate({width: '100%'});
             $(".content-subtitle").animate({width: '100%'});
+           
           });
           $("a.third").click(function(){
             $("#grid").fadeOut(400,function(){
