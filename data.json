@@ -2,10 +2,10 @@
 {
     "timeline":
     {
-        "headline":"Johnny B Goode",
+        "headline":"史涛",
         "type":"default",
-		"startDate":"2009,1",
-		"text":"<i><span class='c1'>Designer</span> & <span class='c2'>Developer</span></i>",
+		"startDate":"2013,01,01",
+		"text":"<i><span class='c1'>旅途</span> & <span class='c2'>摄影</span></i>",
 		"asset":
         {
             "media":"assets/img/notes.png",
@@ -13,90 +13,178 @@
             "caption":""
         },
         "date": [
-            {
-                "startDate":"2009,2",
-                "headline":"My first experiment in time-lapse photography",
-                "text":"Nature at its finest in this video.",
+         {
+                "startDate":"2013,09,16",
+                "headline":"剪刀面",
+                "text":"初到西安，大头请吃的",
                 "asset":
                 {
-                    "media":"http://vimeo.com/22439234",
+                    "media":"photos/4.jpg",
                     "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2009,5",
-                "headline":"Redesign of my portfolio",
-                "text":"",
+                "startDate":"2013,09,18",
+                "headline":"大雁塔",
+                "text":"摄于大雁塔脚下",
                 "asset":
                 {
-                    "media":"assets/img/shots/sidebar_s3.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2009,7",
-                "headline":"Another time-lapse experiment",
-                "text":"",
-                "asset":
-                {
-                    "media":"http://vimeo.com/23237102",
+                    "media":"photos/1.jpg",
                     "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2009,10",
-                "headline":"Developed a Gmail Client",
-                "text":"",
+                "startDate":"2013,09,16",
+                "headline":"西安钟楼",
+                "text":"到西安旅游的第一站，夜景不错！",
                 "asset":
                 {
-                    "media":"assets/img/shots/shot_1298590416.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/120088-Gmail-Pokki-Final-Ui'>by Justalab</a>",
+                    "media":"photos/2.jpg",
+                    "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2010,3",
-                "headline":"Logo Design for a pet shop",
-                "text":"",
+                "startDate":"2013,09,16",
+                "headline":"鸭肉嵌鸭蛋",
+                "text":"初到西安，大头请吃的",
                 "asset":
                 {
-                    "media":"assets/img/shots/pet___you.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/444003-Pet-You'>by Nikita Lebedev</a>",
+                    "media":"photos/5.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+             {
+                "startDate":"2013,09,16",
+                "headline":"三人乐队",
+                "text":"鼓楼前的三人乐队，许巍的歌唱得真心不错！当然还有美女！",
+                "asset":
+                {
+                    "media":"photos/6.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+             {
+                "startDate":"2013,09,18",
+                "headline":"音乐喷泉",
+                "text":"大雁塔前的音乐喷泉！",
+                "asset":
+                {
+                    "media":"photos/7.jpg",
+                    "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2010,4",
-                "headline":"Developed an iPad newspaper application",
-                "text":"It was a challenge to create both the design and code in a week.",
+                "startDate":"2013,09,18",
+                "headline":"音乐喷泉",
+                "text":"大雁塔前的音乐喷泉！",
                 "asset":
                 {
-                    "media":"assets/img/shots/proto_v4_decoupe_2.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/228267-Swiss-newspaper-reader-app-for-iPad-UI-UX-iOS'>by Jonathan Moreira</a>",
+                    "media":"photos/8.jpg",
+                    "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2010,8",
-                "headline":"Illustration for a big client.",
-                "text":"",
+                "startDate":"2013,09,18",
+                "headline":"牛肉小炒+冰峰！",
+                "text":"大头请的！",
                 "asset":
                 {
-                    "media":"assets/img/shots/chameleon.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/366400-Chameleon'>Chameleon by Mike</a>",
+                    "media":"photos/9.jpg",
+                    "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2010,12",
-                "headline":"Advert for Volkswagen",
-                "text":"Created the website for their new advertising campaign.",
+                "startDate":"2013,09,18",
+                "headline":"玄奘+大雁塔",
+                "text":"玄奘+大雁塔！",
                 "asset":
                 {
-                    "media":"http://www.youtube.com/watch?v=0-9EYFJ4Clo",
+                    "media":"photos/10.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,10,19",
+                "headline":"盆景！",
+                "text":"花博会自然馆",
+                "asset":
+                {
+                    "media":"photos/11.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+             {
+                "startDate":"2013,10,19",
+                "headline":"南长街夜景！",
+                "text":"酒吧一条街&古运河",
+                "asset":
+                {
+                    "media":"photos/12.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,08,17",
+                "headline":"南长街夜景！",
+                "text":"酒吧一条街&古运河",
+                "asset":
+                {
+                    "media":"photos/13.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,06,22",
+                "headline":"花！",
+                "text":"摄于杨公子家庭院",
+                "asset":
+                {
+                    "media":"photos/14.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+             {
+                "startDate":"2013,06,20",
+                "headline":"春华路夜景！",
+                "text":"新之城广场处",
+                "asset":
+                {
+                    "media":"photos/15.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,06,28",
+                "headline":"雨中莲！",
+                "text":"摄于传感网国际创新园",
+                "asset":
+                {
+                    "media":"photos/16.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,05,15",
+                "headline":"流水！",
+                "text":"天目大峡谷",
+                "asset":
+                {
+                    "media":"photos/17.jpg",
                     "credit":"",
                     "caption":""
                 }
