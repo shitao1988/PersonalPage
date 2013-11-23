@@ -6,12 +6,7 @@
         "type":"default",
 		"startDate":"2013,01,01",
 		"text":"<i><span class='c1'>旅途</span> & <span class='c2'>摄影</span></i>",
-		"asset":
-        {
-            "media":"assets/img/notes.png",
-            "credit":"<a href='http://dribbble.com/shots/221641-iOS-Icon'>iOS Icon by Asher</a>",
-            "caption":""
-        },
+		
         "date": [
          {
                 "startDate":"2013,09,16",
